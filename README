@@ -11,7 +11,7 @@ WHAT IS LINUX?
   the Net. It aims towards POSIX and Single UNIX Specification compliance.
 
   It has all the features you would expect in a modern fully-fledged Unix,
-  including true multitasking, virtual memory, shared libraries, demand
+  including true multitasking, virtual memory, shared  libraries, demand
   loading, shared copy-on-write executables, proper memory management, 
   and multistack networking including IPv4 and IPv6.
 
