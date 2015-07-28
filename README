@@ -35,7 +35,7 @@ ON WHAT HARDWARE DOES IT RUN?
   Linux has also been ported to itself. You can now run the kernel as a
   userspace application - this is called UserMode Linux (UML).
 
-DOCUMENTATION:
+DOCUMENTATION: 
 
  - There is a lot of documentation available both in electronic form on
    the Internet and in books, both Linux-specific and pertaining to
